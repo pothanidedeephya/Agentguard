@@ -1,0 +1,23 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated files
+node_modules/
+dist/
+build/
+coverage/
+.DS_Store
+
+# Logs
+*.log

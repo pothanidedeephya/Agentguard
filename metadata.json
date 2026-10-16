@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AgentGuard - MCP Runtime Security",
+  "description": "Enterprise runtime defence platform protecting AI agents and Model Context Protocol (MCP) tool servers from unauthorized access, malicious tool calls, and data leakage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
